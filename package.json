@@ -1,0 +1,14 @@
+{
+  "name": "gitpodtest",
+  "version": "1.0.0",
+  "description": "Test of gitpod.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "lerna run start"
+  },
+  "author": "C. Zoellick",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
